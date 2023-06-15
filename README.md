@@ -14,3 +14,5 @@ text vectorization is done using tfidf.
 similarity is calculated by cosine similarity
 
 a final code is written to retreive the document matching the search query or sub of the search query with similarity score sorted from highest match to lowest
+
+if you are interested in english search engine visit https://github.com/Ahmed-Ismail-Mohamed/en-search-engine
