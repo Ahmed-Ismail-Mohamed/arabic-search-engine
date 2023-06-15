@@ -10,7 +10,7 @@ leading or trailling spaces are removed in case of multiple spaces between words
 stop words are removed
 text is normalized using tashaphyne.normalize.normalize_searchtext
 
-# text vectorization is done using tfidf.
-# similarity is calculated by cosine similarity
+text vectorization is done using tfidf.
+similarity is calculated by cosine similarity
 
-# a final code is written to retreive the document matching the search query or sub of the search query with similarity score sorted from highest match to lowest
+a final code is written to retreive the document matching the search query or sub of the search query with similarity score sorted from highest match to lowest
